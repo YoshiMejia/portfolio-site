@@ -1,7 +1,12 @@
 body{
     background-color: #F8EDE3;
 }
+
 hr{
     border-top: 5px dotted white;
     width: 20%;
+}
+
+h1, h3{
+    color: #66BFBF;
 }
